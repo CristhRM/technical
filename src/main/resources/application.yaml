@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: "TechnicalTest"
+  data:
+    mongodb:
+      uri: "mongodb://localhost:27017/iasapi"
+server:
+  port: 8787
